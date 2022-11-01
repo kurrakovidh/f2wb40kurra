@@ -8,6 +8,6 @@
 
 ## Class Vehicle details:
 * Vehicle
-    *Vehicle _name - string
+    * Vehicle_name - string
     * Vehicle_Cost - number
     * Vehicle_model - string
